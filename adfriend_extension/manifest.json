@@ -1,5 +1,5 @@
 {
-  "name": "Adieu Ads: Helpful Humor Edition",
+  "name": "AdFriend: Helpful Humor Edition",
   "version": "1.0",
   "description": "Blocks ads and replaces them with helpful and humorous content",
   "permissions": ["scripting", "declarativeNetRequest"],
